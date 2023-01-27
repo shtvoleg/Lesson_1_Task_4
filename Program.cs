@@ -8,7 +8,7 @@ int n1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите 2-е число: ");		// ввод 2-го числа
 int n2 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите 2-е число: ");		// ввод 3-го числа
+Console.WriteLine("Введите 3-е число: ");		// ввод 3-го числа
 int n3 = Convert.ToInt32(Console.ReadLine());
 
 int max = n1;
